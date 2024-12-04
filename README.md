@@ -1,4 +1,4 @@
-# Projeto para a matéria Jogos para dispositivos móveis - Construct 3
+# Projeto de Jogos para dispositivos móveis - Construct 3
 
 ## Sobre
 
