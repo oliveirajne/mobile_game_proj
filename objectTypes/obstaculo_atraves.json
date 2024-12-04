@@ -1,0 +1,28 @@
+{
+	"name": "obstaculo_atraves",
+	"plugin-id": "TiledBg",
+	"sid": 264060570722018,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "jumpthru",
+			"name": "Jumpthru",
+			"sid": 770302176295847
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 128,
+		"height": 128,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\chao_png.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 9881574,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

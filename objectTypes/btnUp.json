@@ -1,0 +1,59 @@
+{
+	"name": "btnUp",
+	"plugin-id": "Sprite",
+	"sid": 752235454450889,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 189,
+						"height": 205,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 4511138,
+						"collisionPoly": {
+							"points": [
+								0.14814814814814814,
+								0.09268292682926829,
+								0.8518518518518519,
+								0.09268292682926829,
+								0.9894179894179894,
+								0.21951219512195122,
+								0.9894179894179894,
+								0.8634146341463415,
+								0.8518518518518519,
+								0.9902439024390244,
+								0.14814814814814814,
+								0.9902439024390244,
+								0.010582010582010581,
+								0.8634146341463415,
+								0.010582010582010581,
+								0.21951219512195122
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 984201405351089,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

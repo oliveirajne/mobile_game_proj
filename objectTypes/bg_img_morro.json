@@ -1,0 +1,22 @@
+{
+	"name": "bg_img_morro",
+	"plugin-id": "TiledBg",
+	"sid": 790490361977625,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 1280,
+		"height": 620,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\mar_morro.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 7564805,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

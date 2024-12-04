@@ -1,0 +1,22 @@
+{
+	"name": "porta",
+	"plugin-id": "TiledBg",
+	"sid": 878148046566125,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 129,
+		"height": 160,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\porta.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 4739869,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

@@ -1,0 +1,28 @@
+{
+	"name": "presente",
+	"plugin-id": "TiledBg",
+	"sid": 778014646808471,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 569620384398546
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 96,
+		"height": 96,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\presente.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 6272514,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

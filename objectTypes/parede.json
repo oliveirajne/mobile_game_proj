@@ -1,0 +1,28 @@
+{
+	"name": "parede",
+	"plugin-id": "TiledBg",
+	"sid": 379652250239097,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 424352921231329
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 256,
+		"height": 256,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 7468918,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

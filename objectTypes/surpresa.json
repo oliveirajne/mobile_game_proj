@@ -1,0 +1,22 @@
+{
+	"name": "surpresa",
+	"plugin-id": "TiledBg",
+	"sid": 588360574509941,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 96,
+		"height": 96,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\surpresa.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 8452983,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

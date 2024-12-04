@@ -1,0 +1,59 @@
+{
+	"name": "btnRight",
+	"plugin-id": "Sprite",
+	"sid": 987939054064685,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 189,
+						"height": 205,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 6196800,
+						"collisionPoly": {
+							"points": [
+								0.15343915343915343,
+								0.03414634146341464,
+								0.8465608465608465,
+								0.03414634146341464,
+								0.9894179894179894,
+								0.16585365853658537,
+								0.9894179894179894,
+								0.8097560975609757,
+								0.8518518518518519,
+								0.9365853658536586,
+								0.15343915343915343,
+								0.9365853658536586,
+								0.010582010582010581,
+								0.8048780487804879,
+								0.010582010582010581,
+								0.16585365853658537
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 360468068764798,
+				"name": "Animation 1",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

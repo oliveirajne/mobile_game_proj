@@ -1,0 +1,28 @@
+{
+	"name": "bg_img_mar1",
+	"plugin-id": "TiledBg",
+	"sid": 267159158428950,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Bullet",
+			"name": "Bullet",
+			"sid": 729533807540235
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 1280,
+		"height": 620,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\mar_2.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 674814,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

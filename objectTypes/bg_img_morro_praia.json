@@ -1,0 +1,22 @@
+{
+	"name": "bg_img_morro_praia",
+	"plugin-id": "TiledBg",
+	"sid": 246164314578845,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 1280,
+		"height": 620,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\mar_3.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 8919765,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

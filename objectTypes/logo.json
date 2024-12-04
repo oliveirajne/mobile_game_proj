@@ -1,0 +1,22 @@
+{
+	"name": "logo",
+	"plugin-id": "TiledBg",
+	"sid": 575502051216954,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 500,
+		"height": 400,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\logo.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 6500453,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

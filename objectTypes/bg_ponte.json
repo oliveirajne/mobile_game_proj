@@ -1,0 +1,22 @@
+{
+	"name": "bg_ponte",
+	"plugin-id": "TiledBg",
+	"sid": 842694120703691,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 2000,
+		"height": 739,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\ponte.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 664805,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

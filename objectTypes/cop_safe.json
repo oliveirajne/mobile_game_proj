@@ -1,0 +1,33 @@
+{
+	"name": "cop_safe",
+	"plugin-id": "TiledBg",
+	"sid": 530462228269356,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 220431448677712
+		},
+		{
+			"behaviorId": "Sin",
+			"name": "Sine",
+			"sid": 492393475966779
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 128,
+		"height": 128,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\chao_png.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 4453915,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

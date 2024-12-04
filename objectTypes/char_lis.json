@@ -1,0 +1,109 @@
+{
+	"name": "char_lis",
+	"plugin-id": "Sprite",
+	"sid": 192107629223636,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "scrollto",
+			"name": "ScrollTo",
+			"sid": 268861155601426
+		},
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 428031028540621
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 189,
+						"height": 230,
+						"originX": 0.502645,
+						"originY": 1,
+						"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\sprint_1.png",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 5255132,
+						"collisionPoly": {
+							"points": [
+								0.153439,
+								0.130435,
+								0.497355,
+								0.00869565,
+								0.867725,
+								0.108696,
+								0.835979,
+								0.5,
+								0.920635,
+								0.986957,
+								0.534392,
+								0.991303,
+								0.142857,
+								0.978261,
+								0.10582,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 760987914301139,
+				"name": "ID_IDLE",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 188,
+						"height": 231,
+						"originX": 0.5,
+						"originY": 1,
+						"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\sprint_1_2.png",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 1562773,
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					},
+					{
+						"width": 189,
+						"height": 231,
+						"originX": 0.502645,
+						"originY": 1,
+						"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\sprint_1_3.png",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 6696904,
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 327945028769492,
+				"name": "ID_WALK",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

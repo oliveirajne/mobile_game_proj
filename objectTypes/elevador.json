@@ -1,0 +1,33 @@
+{
+	"name": "elevador",
+	"plugin-id": "TiledBg",
+	"sid": 818240174846619,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "solid",
+			"name": "Solid",
+			"sid": 139923767187717
+		},
+		{
+			"behaviorId": "Sin",
+			"name": "Sine",
+			"sid": 871274884301833
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 128,
+		"height": 128,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\chao_png.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 720413,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"name": "bg_calcada",
+	"plugin-id": "TiledBg",
+	"sid": 142209307495204,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 216,
+		"height": 216,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\chao_png.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 5092455,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

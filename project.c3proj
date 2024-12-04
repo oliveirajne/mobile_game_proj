@@ -1,0 +1,369 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 41600,
+	"name": "LIS",
+	"runtime": "c3",
+	"useWorker": "auto",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Audio",
+			"name": "Audio",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Keyboard",
+			"name": "Keyboard",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Sprite",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Text",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TextBox",
+			"name": "Text input",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TiledBg",
+			"name": "Tiled Background",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Touch",
+			"name": "Touch",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Bullet",
+			"name": "Bullet",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Platform",
+			"name": "Platform",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Sin",
+			"name": "Sine",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "jumpthru",
+			"name": "Jump-thru",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "scrollto",
+			"name": "Scroll To",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "solid",
+			"name": "Solid",
+			"author": "Scirra",
+			"bundled": false
+		}
+	],
+	"uniqueId": "10bxkpxtahfo3",
+	"objectTypes": {
+		"items": [
+			"plataforma",
+			"bg_img_mar1",
+			"bg_img_mar2",
+			"bg_img_morro",
+			"bg_img_morro_praia",
+			"char_lis",
+			"Keyboard",
+			"bg_areia",
+			"bg_calcada",
+			"plataforma2",
+			"Text",
+			"Text2",
+			"bg_ponte",
+			"bg_cristo",
+			"logo",
+			"obstaculo",
+			"elevador",
+			"obstaculo_atraves",
+			"parede",
+			"cop_safe",
+			"cop",
+			"cop_limit",
+			"presente",
+			"niver",
+			"msg_niver",
+			"Audio",
+			"surpresa",
+			"bonus_chao",
+			"chao_bonus",
+			"bonus_parede",
+			"bonus_plataforma",
+			"bonus_cop",
+			"porta",
+			"Sprite",
+			"Sprite2",
+			"Sprite3",
+			"Sprite4",
+			"Sprite5",
+			"btnLeft",
+			"btnRight",
+			"btnUp",
+			"Touch",
+			"logo_uni",
+			"Text3"
+		],
+		"subfolders": []
+	},
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"main",
+			"Layout 1",
+			"bonus",
+			"niver"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"Event sheet 1",
+			"es_niver"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [],
+			"subfolders": []
+		},
+		"sound": {
+			"items": [
+				{
+					"name": "fuck.m4a",
+					"type": "audio/mp4",
+					"sid": 823854611203396,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "fuck.ogg",
+					"type": "audio/ogg; codecs=vorbis",
+					"sid": 219519126301773,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "niver.ogg",
+					"type": "audio/ogg; codecs=vorbis",
+					"sid": 925495049108588,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "dejavu.ogg",
+					"type": "audio/ogg; codecs=vorbis",
+					"sid": 639631851571873,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "ipanema1.ogg",
+					"type": "audio/ogg; codecs=vorbis",
+					"sid": 205241243967466,
+					"file-info": {
+						"purpose": "none"
+					}
+				},
+				{
+					"name": "ipanema1.m4a",
+					"type": "audio/mp4",
+					"sid": 537375364555817,
+					"file-info": {
+						"purpose": "none"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"music": {
+			"items": [],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "icon-16.png",
+					"type": "image/png",
+					"sid": 184393876812424,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-32.png",
+					"type": "image/png",
+					"sid": 772895392430695,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-114.png",
+					"type": "image/png",
+					"sid": 883256460091974,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "icon-128.png",
+					"type": "image/png",
+					"sid": 294160838841972,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "loading-logo.png",
+					"type": "image/png",
+					"sid": 256826025315038,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				},
+				{
+					"name": "icon-256.png",
+					"type": "image/png",
+					"sid": 366029224207621,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"flowcharts": {
+		"items": [],
+		"subfolders": []
+	},
+	"properties": {
+		"description": "",
+		"version": "1.0.0.0",
+		"author": "",
+		"authorEmail": "",
+		"authorWebsite": "http://",
+		"appId": "com.mycompany.myapp",
+		"pixelRounding": false,
+		"zAxisScale": "normalized",
+		"fov": 0.7853981633974483,
+		"useLoaderLayout": false,
+		"fullscreenMode": "letterbox-scale",
+		"fullscreenQuality": "high",
+		"viewportFit": "auto",
+		"backgroundColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "any",
+		"webgpu": "auto",
+		"gpuPreference": "high-performance",
+		"scriptsType": "module",
+		"framerateMode": "vsync",
+		"sampling": "trilinear",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"zNear": 1,
+		"zFar": 10000,
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "progress-logo",
+		"preloadSounds": true,
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https",
+		"exportFileStructure": "flat",
+		"uidAllocationMode": "increment"
+	},
+	"viewportWidth": 1280,
+	"viewportHeight": 620,
+	"firstLayout": "main"
+}

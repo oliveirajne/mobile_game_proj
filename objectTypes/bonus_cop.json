@@ -1,0 +1,71 @@
+{
+	"name": "bonus_cop",
+	"plugin-id": "Sprite",
+	"sid": 209370805492518,
+	"isGlobal": false,
+	"instanceVariables": [
+		{
+			"name": "bonus_cop_dir",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 938925927362686
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 953565471325205
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 80,
+						"height": 83,
+						"originX": 0.5,
+						"originY": 1,
+						"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\koopa_cop.png",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"fileType": "image/png",
+						"imageSpriteId": 3716192,
+						"collisionPoly": {
+							"points": [
+								0.1375,
+								0.13253,
+								0.7375,
+								0.253012,
+								0.9125,
+								0.493976,
+								0.925,
+								0.927711,
+								0.5,
+								0.927711,
+								0.2625,
+								0.746988,
+								0.0375,
+								0.493976
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1,
+						"tag": ""
+					}
+				],
+				"sid": 549955318517509,
+				"name": "Default",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": []
+	}
+}

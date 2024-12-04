@@ -1,0 +1,22 @@
+{
+	"name": "bg_cristo",
+	"plugin-id": "TiledBg",
+	"sid": 934091612055696,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 1335,
+		"height": 400,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\cristoa.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 946196,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

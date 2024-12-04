@@ -1,0 +1,31 @@
+{
+	"name": "es_niver",
+	"events": [
+		{
+			"eventType": "block",
+			"conditions": [
+				{
+					"id": "on-start-of-layout",
+					"objectClass": "System",
+					"sid": 305592141378124
+				}
+			],
+			"actions": [
+				{
+					"id": "play",
+					"objectClass": "Audio",
+					"sid": 134515909899218,
+					"parameters": {
+						"audio-file": "niver",
+						"loop": "looping",
+						"volume": "-5",
+						"stereo-pan": "0",
+						"tag-optional": "\"\""
+					}
+				}
+			],
+			"sid": 164794842223535
+		}
+	],
+	"sid": 362073260002895
+}

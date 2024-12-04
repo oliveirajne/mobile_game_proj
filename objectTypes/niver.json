@@ -1,0 +1,22 @@
+{
+	"name": "niver",
+	"plugin-id": "TiledBg",
+	"sid": 480465411181146,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 1112,
+		"height": 620,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\b_blade.jpg",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 6097620,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

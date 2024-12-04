@@ -1,0 +1,22 @@
+{
+	"name": "cop_limit",
+	"plugin-id": "TiledBg",
+	"sid": 723484432882507,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 32,
+		"height": 32,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 2041321,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

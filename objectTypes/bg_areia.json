@@ -1,0 +1,22 @@
+{
+	"name": "bg_areia",
+	"plugin-id": "TiledBg",
+	"sid": 735002281218422,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 1280,
+		"height": 206,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "C:\\niver_lis\\LIS_GAME\\imagens\\areia.png",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 4766373,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}
